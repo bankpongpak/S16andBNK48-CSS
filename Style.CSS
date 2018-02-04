@@ -1,0 +1,47 @@
+<html>
+<head>
+
+<style>
+    body{background-color: black;} /*สีพื้นหลัง*/
+
+    h1{color: #FF99CC ; font-size: 45px;} /*สีและขนาดตัวอักษร*/
+
+    h2{color: #f761a7 ; font-size: 30px;} /*สีและขนาดตัวอักษร*/
+
+    h3{color: #2d41fc ; font-size: 45px;} /*สีและขนาดตัวอักษร*/
+
+    h4{color: #2d41fc ; font-size: 35px;} /*สีและขนาดตัวอักษร*/
+
+    h5{color: #f55e44 ; font-size: 45px;} /*สีและขนาดตัวอักษร*/
+
+    h6{color: #f55e44 ; font-size: 30px;} /*สีและขนาดตัวอักษร*/
+
+    h7{color: #ff5ea9 ; font-size: 30px;} /*สีและขนาดตัวอักษร*/
+
+    h8{color: rgb(0, 0, 0) ; font-size: 20px;} /*สีและขนาดตัวอักษร*/
+
+    p{left} /*ตัวอักษรอยู่ข้างซ้าย*/
+
+    p1{margin-left: 30px} /*ขนาดตัวอักษรอยู่ข้างซ้าย*/
+
+    p2{left:30px} /*ขนาดตัวอักษรอยู่ข้างซ้าย*/
+ 
+    p3{font-size: 20px}
+
+    p4{font-size: 40px}
+
+    p5{font-size: 17px}
+
+    p6{font-size: 25px}
+
+    hr{color:#f55e44;} /*สี*/
+
+</style>
+
+</head>
+
+<body>
+
+</body>
+
+</html>
